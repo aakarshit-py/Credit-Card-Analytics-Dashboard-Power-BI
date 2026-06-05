@@ -1,3 +1,14 @@
+<h2>Credit Card Transaction Report</h2>
+
+<p align="center">
+  <img src="CC1.png" width="1000">
+</p>
+
+<h2>Credit Card Customer Report</h2>
+
+<p align="center">
+  <img src="cc2.png" width="1000">
+</p>
 # Credit Card Analytics Dashboard | Power BI
 
 ## Project Overview
